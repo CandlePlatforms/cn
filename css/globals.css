@@ -1,0 +1,51 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/62270d3be0acc8b4e0035f83.62270d3d3e2770be3d8aa711.i6o4i6A.hcp.png");
+
+@font-face {
+  font-family: "Articulat CF-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/ArticulatCF-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Articulat CF-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/ArticulatCF-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "Articulat CF-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/ArticulatCF-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "Articulat CF-ExtraBold";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/ArticulatCF-ExtraBold.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}

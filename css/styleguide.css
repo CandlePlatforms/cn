@@ -1,0 +1,222 @@
+:root { 
+  --black: #000000;
+  --denim-blue: #21429b;
+  --havelock-blue: #4a8ccd;
+  --onyx: #323538;
+  --picton-blue: #4bb7e8;
+  --sky-blue: #73d5ff80;
+  --sky-blue-2: #73d5ff;
+  --white: #ffffff;
+ 
+  --font-size-m: 44.7px;
+  --font-size-s: 42px;
+  --font-size-xs: 36px;
+  --font-size-xxs: 35.7px;
+  --font-size-xxxs: 34px;
+  --font-size-xxxxs: 28px;
+  --font-size-xxxxxs: 27.2px;
+ 
+  --font-family-articulat_cf-bold: "Articulat CF-Bold", Helvetica;
+  --font-family-articulat_cf-extrabold: "Articulat CF-ExtraBold", Helvetica;
+  --font-family-articulat_cf-medium: "Articulat CF-Medium", Helvetica;
+  --font-family-articulat_cf-normal: "Articulat CF-Normal", Helvetica;
+  --font-family-articulat_cf-regular: "Articulat CF-Regular", Helvetica;
+}
+.articulatcf-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-medium-black-27-2px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-bold-white-44-7px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-black-44-7px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-regular-normal-black-35-7px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.articulatcf-bold-white-42px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-white-27-2px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-regular-normal-white-35-7px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.articulatcf-bold-white-42px-2 {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-white-34px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-regular-normal-white-29px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-regular);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.articulatcf-medium-white-67px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 67px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-extra-extra-bold-onyx-100-5px {
+  color: var(--onyx);
+  font-family: var(--font-family-articulat_cf-extrabold);
+  font-size: 100.5px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.articulatcf-bold-white-78-2px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 78.2px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-regular-normal-white-33-6px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-regular);
+  font-size: 33.6px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.articulatcf-bold-white-89-4px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 89.4px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-black-89-4px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 89.4px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-white-41-9px {
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 41.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-bold-white-41-9px-2 {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 41.9px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.articulatcf-medium-white-33-5px {
+  color: var(--white);
+  font-family: var(--font-family-articulat_cf-medium);
+  font-size: 33.5px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.articulatcf-bold-black-29-3px {
+  color: var(--black);
+  font-family: var(--font-family-articulat_cf-bold);
+  font-size: 29.3px;
+  font-style: normal;
+  font-weight: 700;
+}
